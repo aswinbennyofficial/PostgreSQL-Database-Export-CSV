@@ -1,0 +1,2 @@
+user_id,event_id,id,created_at,updated_at,has_attended,has_attended_at,attendee_id
+9f0acd64-4301-459f-8e32-6b1b6498e1cf,09858b06-b7c1-4342-8f17-d9306c90bc68,8204e58b-031e-4f77-93f7-60b6115e16e6,2023-03-27 11:29:30.853269+00:00,2023-03-27 16:21:22.824260+00:00,True,2023-03-27 16:21:22.824260+00:00,P3vwEoZN3SV7RF7nKcjilU
